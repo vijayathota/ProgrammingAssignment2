@@ -5,7 +5,7 @@
 ###  set() it sets the matrix which needs to be inverserd
 ###  get() it return matrix.
 ###  setinversematrix() It set the inversed matrix
-###  getinversematrix() it returns the inversed matrix 
+###  getinversematrix() it returns the inversed matrix   
 makeCacheMatrix <- function(x = matrix()) {
   
   inversemat <- NULL
